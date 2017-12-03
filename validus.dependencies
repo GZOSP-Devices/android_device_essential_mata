@@ -1,0 +1,52 @@
+[
+  {
+    "repository": "android_device_essential_mata_data-ipa-cfg-mgr",
+    "target_path": "device/essential/mata/data-ipa-cfg-mgr",
+	"branch":   "lineage-15.0"
+  },
+  {
+    "repository": "android_device_essential_mata_gps",
+    "target_path": "device/essential/mata/gps",
+	"branch":   "lineage-15.0"
+  },
+  {
+    "repository": "android_kernel_essential_msm8998",
+    "target_path": "kernel/essential/msm8998",
+	"branch":   "lineage-15.0"
+  },
+  {
+    "repository": "android_kernel_essential_msm8998_drivers_staging_fw-api",
+    "target_path": "kernel/essential/msm8998/drivers/staging/fw-api",
+	"branch":   "lineage-15.0"
+  },
+  {
+    "repository": "android_kernel_essential_msm8998_drivers_staging_qca-wifi-host-cmn",
+    "target_path": "kernel/essential/msm8998/drivers/staging/qca-wifi-host-cmn",
+	"branch":   "lineage-15.0"
+  },
+  {
+    "repository": "android_kernel_essential_msm8998_drivers_staging_qcacld-3.0",
+    "target_path": "kernel/essential/msm8998/drivers/staging/qcacld-3.0",
+	"branch":   "lineage-15.0"
+  },
+  {
+    "repository": "android_vendor_qcom_opensource_location",
+    "target_path": "vendor/qcom/opensource/location",
+	"branch":   "lineage-15.0"
+  },
+  {
+    "repository": "android_vendor_nxp-nfc_opensource_frameworks",
+    "target_path": "vendor/nxp-nfc/opensource/frameworks",
+	"branch":   "lineage-15.0"
+  },
+  {
+    "repository": "android_vendor_nxp-nfc_opensource_libnfc-nci",
+    "target_path": "vendor/nxp-nfc/opensource/libnfc-nci",
+	"branch":   "lineage-15.0"
+  },
+  {
+    "repository": "android_vendor_nxp-nfc_opensource_Nfc",
+    "target_path": "vendor/nxp-nfc/opensource/Nfc",
+	"branch":   "lineage-15.0"
+  }
+]
