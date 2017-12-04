@@ -1,13 +1,13 @@
 [
   {
-    "repository": "invisiblek/android_kernel_essential_msm8998",
+    "repository": "GZOSP-Devices/kernel_essential_msm8998",
     "target_path": "kernel/essential/msm8998",
-    "branch":	"lineage-15.0"
+    "branch":	"8.0"
   },
   {
-    "repository": "invisiblek/proprietary_vendor_essential",
+    "repository": "GZOSP-Devices/proprietary_vendor_essential",
     "target_path":  "vendor/essential",
-    "branch": "lineage-15.0"
+    "branch": "8.0"
   },
   {
     "repository":  "invisiblek/android_kernel_essential_msm8998_drivers_staging_fw-api",
