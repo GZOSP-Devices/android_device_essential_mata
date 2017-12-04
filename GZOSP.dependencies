@@ -1,42 +1,46 @@
 [
   {
-    "repository": "android_kernel_essential_msm8998",
+    "repository": "invisiblek/android_kernel_essential_msm8998",
     "target_path": "kernel/essential/msm8998",
-    "branch":	"cm-14.1"
+    "branch":	"lineage-15.0"
   },
   {
-    "repository": "android_kernel_essential_msm8998_drivers_staging_fw-api",
+    "repository": "invisiblek/proprietary_vendor_essential",
+    "target_path":  "vendor/essential",
+    "branch": "lineage-15.0"
+  },
+  {
+    "repository":  "invisiblek/android_kernel_essential_msm8998_drivers_staging_fw-api",
     "target_path": "kernel/essential/msm8998/drivers/staging/fw-api",
-    "branch":	"cm-14.1"
+    "branch":	"lineage-15.0"
   },
   {
-    "repository": "android_kernel_essential_msm8998_drivers_staging_qca-wifi-host-cmn",
+    "repository":  "invisiblek/android_kernel_essential_msm8998_drivers_staging_qca-wifi-host-cmn",
     "target_path": "kernel/essential/msm8998/drivers/staging/qca-wifi-host-cmn",
-    "branch":	"cm-14.1"
+    "branch":	"lineage-15.0"
   },
   {
-    "repository": "android_kernel_essential_msm8998_drivers_staging_qcacld-3.0",
+    "repository":  "invisiblek/android_kernel_essential_msm8998_drivers_staging_qcacld-3.0",
     "target_path": "kernel/essential/msm8998/drivers/staging/qcacld-3.0",
-    "branch":	"cm-14.1"
+    "branch":	"lineage-15.0"
   },
   {
-    "repository": "android_vendor_qcom_opensource_location",
+    "repository": "LineageOS/android_vendor_qcom_opensource_location",
     "target_path": "vendor/qcom/opensource/location",
-    "branch":	"cm-14.1"
-  },
+    "branch":	"lineage-15.0"
   {
-    "repository": "android_vendor_nxp-nfc_opensource_frameworks",
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_frameworks",
     "target_path": "vendor/nxp-nfc/opensource/frameworks",
-    "branch":	"cm-14.1"
+    "branch":	"lineage-15.0"
   },
   {
-    "repository": "android_vendor_nxp-nfc_opensource_libnfc-nci",
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci",
     "target_path": "vendor/nxp-nfc/opensource/libnfc-nci",
-    "branch":	"cm-14.1"
+    "branch":	"lineage-15.0"
   },
   {
-    "repository": "android_vendor_nxp-nfc_opensource_Nfc",
+    "repository": "LineageOS/android_vendor_nxp-nfc_opensource_Nfc",
     "target_path": "vendor/nxp-nfc/opensource/Nfc",
-    "branch":	"cm-14.1"
+    "branch":	"lineage-15.0"
   }
 ]
